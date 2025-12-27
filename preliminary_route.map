@@ -1,0 +1,23 @@
+# Preliminary Route Map: Florida City to Marathon
+# Coordinates are approximate (decimal degrees, WGS84)
+# Format: Milepost, Latitude, Longitude, Feature
+
+0.0, 25.4478, -80.4792, Florida City Junction (existing)
+2.5, 25.4350, -80.4850, Start of fill section
+5.0, 25.4180, -80.4930, Entering Everglades buffer
+7.5, 25.4000, -80.5020, Crossing US‑1 (grade‑separated)
+10.0, 25.3830, -80.5120, Beginning of Key Largo approach
+15.2, 25.1150, -80.4060, Key Largo Station
+18.5, 25.0900, -80.4300, Crossing Blackwater Sound (bridge)
+22.0, 25.0500, -80.4500, Entering Upper Matecumbe Key
+26.8, 24.9230, -80.6280, Islamorada Station
+30.0, 24.8500, -80.7000, Crossing Indian Key Fill (viaduct)
+34.5, 24.8150, -80.8200, Long Key Station (viaduct)
+38.0, 24.7200, -81.0400, Beginning of Seven‑Mile Bridge approach
+41.0, 24.7000, -81.1200, Seven‑Mile Bridge (existing structure evaluation)
+44.9, 24.7260, -81.0420, Marathon Terminal (proposed)
+
+# Notes:
+# - All bridge locations are marked with 'bridge' or 'viaduct'.
+# - Elevation data available in separate topographic survey.
+# - This map is for planning only; final alignment may vary up to 500 ft.
